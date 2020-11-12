@@ -1,0 +1,15 @@
+{
+    "intelephense.files.associations": [
+
+
+        "*.php",
+        "*.phtml" 
+        
+    ],
+    "workbench.editorAssociations": [
+    
+    ],
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
